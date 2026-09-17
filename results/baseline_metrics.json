@@ -1,0 +1,13 @@
+{
+  "model": "LSTM",
+  "seed": 123,
+  "test_mae": 219.2939456811071,
+  "test_rmse": 356.07736686976125,
+  "test_mape": 7.942937535365566,
+  "parameters": 17217,
+  "epochs_completed": 20,
+  "best_epoch": 10,
+  "best_val_loss": 0.0826998625896298,
+  "training_seconds": 149.43088530000023,
+  "device": "cuda"
+}
